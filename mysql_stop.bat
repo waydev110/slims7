@@ -1,0 +1,3 @@
+@echo off
+echo Mysql shutdown ...
+\psenayan\mysql\bin\mysqladmin --user=root --password=psenayan shutdown
